@@ -33,6 +33,10 @@ const bookDB = {
     {
       name: "Let you love me",
       rating: "5/5"
+    },
+    {
+      name: "anyone",
+      rating: "5/5"
     }
   ]
 };
